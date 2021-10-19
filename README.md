@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fsned
 - 👀 I’m interested in electronics, robotics, programming, 
-- 🌱 I’m currently learning SQL, PyQT5, 
+- 🌱 I’m currently learning GameDevelopment, @Godot
 - 🙏 I’m looking to collaborate on any awesome projects
 - 📫 Reach me at mail, subject: "Github reach out", To: Fsnedevind@hotmail.com
